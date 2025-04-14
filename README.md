@@ -2,7 +2,7 @@
 :triangular_flag_on_post::triangular_flag_on_post::triangular_flag_on_post: This is the PyTorch implementation of TPGS (You Need a Transition Plane: Bridging Continuous Panoramic 3D Reconstruction with Perspective Gaussian Splatting)!  
 # Methodology
 <table>
-	<tr><th colspan="2" width="1200" height="200"><center><img src="/img/TPGS.png">The motivation of PanoFormer.</center></th></tr>
+	<tr><th colspan="2" width="1200" height="200"><center><img src="/img/TPGS.png">The Framework of TPGS</center></th></tr>
 </table>
 
 
