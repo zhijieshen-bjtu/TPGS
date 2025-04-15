@@ -4,12 +4,12 @@
 <table>
 	<tr><th colspan="2" width="1200" height="200"><center><img src="/img/TPGS.png">The Framework of TPGS.</center></th></tr>
 </table>
-Our motivation lies in exploring a practical framework that can bridge the omnidirectional 3D scene reconstruction with perspective Gaussian Splatting.
+Our motivation lies in exploring a practical framework for bridging omnidirectional 3D scene reconstruction with perspective Gaussian Splatting.
 
 # Update
 
 # Datasets
-
+Please prepare your data according to the instructions [here](https://github.com/esw0116/ODGS).
 # Package dependencies
 
 # To start
