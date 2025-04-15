@@ -1,6 +1,8 @@
-
 import os
 import cv2 
+import perspective_and_equirectangular.lib.Equirec2Perspec as E2P
+import perspective_and_equirectangular.lib.Perspec2Equirec as P2E
+import perspective_and_equirectangular.lib.multi_Perspec2Equirec as m_P2E
 import glob
 import argparse
 
